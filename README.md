@@ -1,4 +1,4 @@
 👋 Hi, I’m @parksjr5
-👩🏼‍💻 I’m currently a student studying data science
-👩🏼‍🏫 I'm formerly a secondary science and math teacher
-💻 I'm currently learning Python, C++, and R
+👩🏼‍💻 Data scientist
+👩🏼‍🏫 Former secondary science and math teacher
+💻 Python, R, C++
