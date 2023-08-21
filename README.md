@@ -1,4 +1,4 @@
-👋 Hi, I’m @parksjr5
-👩🏼‍💻 Data scientist
-👩🏼‍🏫 Former secondary science and math teacher
-💻 Python, R, C++
+👋 Hi, I’m @parksjr5 <br/>
+👩🏼‍💻 Data scientist <br/>
+👩🏼‍🏫 Former secondary science and math teacher <br/>
+💻 Python, R, SQL, C++ <br/>
